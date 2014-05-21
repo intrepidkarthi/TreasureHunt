@@ -1,0 +1,74 @@
+
+h1 {
+font-family: "Monotype Corsiva", verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif,  Times New Roman, times-roman, georgia;
+color: rgb(243,208,10);
+background-color:#000;
+margin: 0;
+padding-left: 30px;
+font-size: 70px;
+line-height: 44px;
+letter-spacing: -2px;
+font-weight: bold;
+
+}
+
+p{
+font-family: bold 16px Times New Roman, "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+margin-top: .5em; color: rgb(243,208,10);
+}
+
+body
+{
+background-color:#000;
+
+}
+
+table
+{
+
+border: 1px solid rgb(243,208,10);
+}
+td
+{
+ color: rgb(243,208,10);
+}
+
+
+
+.applemenu{
+margin: 5px 0;
+padding: 0;
+width: 230px; 
+border: 1px solid rgb(243,208,10);
+}
+
+.applemenu div.silverheader a{
+background-color: black ;
+font: normal 15px "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+color: rgb(243,208,10);
+display: block;
+position: relative; 
+width: auto;
+padding: 5px 0;
+padding-left: 8px;
+text-decoration: none;
+}
+
+
+.applemenu div.silverheader a:visited, .applemenu div.silverheader a:active{
+color: rgb(243,208,10);
+}
+
+
+.applemenu div.selected a, .applemenu div.silverheader a:hover{
+color:white ;
+}
+
+.applemenu div.submenu{ 
+background-color:rgb(243,208,10);
+font: bold 15px    georgia, Times New Roman, sans-serif;
+text-align:center;
+color:black;
+padding: 30px 10px 15px 10px;
+height: 130px; 
+
